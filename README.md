@@ -123,10 +123,8 @@ Olympic_Dataset_Analysis/
 
 ## 📸 Dashboard Preview
 
-
-```markdown
 ![Olympic Dashboard](dashboard_screenshot.png)
-```
+
 
 ---
 
